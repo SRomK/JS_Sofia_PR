@@ -9,6 +9,6 @@ class Rectangle {
     }
 } 
 
-
 let myRectangle1 = new Rectangle();
 let myRectangle2 = new Rectangle();
+
